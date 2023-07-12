@@ -1,6 +1,6 @@
 # NextGramClone
 
-Deps FrontEnt Study 과제1
+Deps Front-End Study 과제1
 
 Next.js 13을 공부중입니다.
 
